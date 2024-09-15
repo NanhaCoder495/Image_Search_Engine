@@ -14,6 +14,5 @@ Git Version Control: Used Git for version control and collaboration.
 Key Achievements:
 
 Successfully integrated image search API and displayed results in a user-friendly interface.
-Implemented a search bar and filtering options to refine search results.
 Utilized JavaScript for dynamic updates and user interactions.
 Implemented responsive design for optimal viewing on various devices.
